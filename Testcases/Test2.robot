@@ -15,3 +15,5 @@ Open Application
           Input Text    xpath://input[@name='fld_username']    sekar  clear: bool = True
           Input Text    fld_email    sekarb@gmail.com
           Select Radio Button    add_type    home
+Feature1 test
+    Log  Feature1 test
